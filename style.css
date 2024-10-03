@@ -57,7 +57,7 @@ ul li.checked::before {
 }
 
 .close:hover {
-    background-color: #f44336;
+    background-color: black;
     color: white;
 }
 
